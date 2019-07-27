@@ -1,0 +1,1 @@
+Sample Android code from Google: https://github.com/googlesamples
